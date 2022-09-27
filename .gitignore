@@ -8,3 +8,4 @@ target
 .idea
 
 *.iml
+wildfly-26.0.0.Final
